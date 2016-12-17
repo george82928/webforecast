@@ -1,0 +1,86 @@
+{
+  "city": {
+    "id": 2158177,
+    "name": "Melbourne",
+    "coord": {
+      "lon": 144.963318,
+      "lat": -37.813999
+    },
+    "country": "AU",
+    "population": 0,
+    "sys": {
+      "population": 0
+    }
+  },
+  "cod": "200",
+  "message": 0.187,
+  "cnt": 2,
+  "list": [
+    {
+      "dt": 1480939200,
+      "main": {
+        "temp": 286.04,
+        "temp_min": 286.04,
+        "temp_max": 286.611,
+        "pressure": 1011,
+        "sea_level": 1028.75,
+        "grnd_level": 1011,
+        "humidity": 71,
+        "temp_kf": -0.57
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 80
+      },
+      "wind": {
+        "speed": 1.81,
+        "deg": 158.502
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2016-12-05 12:00:00"
+    },
+    {
+      "dt": 1480950000,
+      "main": {
+        "temp": 285.23,
+        "temp_min": 285.23,
+        "temp_max": 285.665,
+        "pressure": 1009.79,
+        "sea_level": 1027.66,
+        "grnd_level": 1009.79,
+        "humidity": 76,
+        "temp_kf": -0.43
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": {
+        "all": 88
+      },
+      "wind": {
+        "speed": 1.24,
+        "deg": 142.5
+      },
+      "rain": {},
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2016-12-05 15:00:00"
+    }
+  ]
+}
